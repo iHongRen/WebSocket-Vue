@@ -3,7 +3,7 @@
 
 
 
-##如何使用
+## 如何使用
 
 1、在 main.js 中将 useSocket 注入到 provide 中
 
