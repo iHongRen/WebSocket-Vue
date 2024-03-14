@@ -1,5 +1,5 @@
 # WebSocket-Vue
-使用 **Vue3 **封装 **WebSocket** ,支持心跳检查、断线重连
+使用 **Vue3**封装 **WebSocket** ,支持心跳检查、断线重连
 
 
 
